@@ -1,0 +1,9 @@
+Run time (UTC): 2026-11-22T18:45:24.456953+00:00
+Model: Logistic Regression
+Evaluation split: Validation
+Seed: 42
+Precision: 0.636364
+Recall: 0.137255
+F1: 0.225806
+Average Precision: 0.384380
+Confusion Matrix: [[1445, 4], [44, 7]]
